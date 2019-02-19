@@ -10,7 +10,7 @@ Firmware
 
 
 
-## offb_py running
+## offb_py
 ```
 roscore
 
